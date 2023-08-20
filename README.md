@@ -17,6 +17,7 @@ This repository contains a collection of Rust projects that cover various aspect
 9. [Ownership](#ownership)
 10. [Server](#server)
 11. [Variables](#variables)
+12. [Running the Projects](#running-the-projects)
 
 ### Cheatsheet
 
@@ -61,6 +62,17 @@ A basic server implementation in Rust.
 ### Variables
 
 A project that covers variable declaration, mutation, and shadowing in Rust.
+
+## Running the Projects
+
+To run any of the projects, follow these steps:
+
+1. **Clone the Repository**: Clone this repository to your local machine using `git clone https://github.com/placeparks/Rust-learn.git`.
+2. **Navigate to the Project**: Use the command line to navigate to the specific project directory.
+3. **Compile the Project**: Run `cargo build` to compile the project.
+4. **Run the Project**: Execute `cargo run` to run the project.
+
+Make sure you have Rust and Cargo installed on your system. If not, follow the [official installation guide](https://www.rust-lang.org/tools/install).
 
 ## Contributing
 
